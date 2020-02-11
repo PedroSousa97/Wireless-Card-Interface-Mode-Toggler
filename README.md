@@ -15,6 +15,6 @@ This script needs the following dependencies installed so it can run properly:
 
 ## Authors
 
-* **Pedro Henrique Santos Sousa** - *Based and improved script of* - [Alpha-Lead](https://github.com/Alpha-Lead)
+* **Pedro Henrique Santos Sousa** - *Based on and improved script of* - [Alpha-Lead](https://github.com/Alpha-Lead)
 
 
