@@ -13,6 +13,8 @@ This script needs the following dependencies installed so it can run properly:
 * grep;
 * sed;
 
+This script will needs sudo permissions.
+
 ## Authors
 
 * **Pedro Henrique Santos Sousa** - *Based on and improved script of* - [Alpha-Lead](https://github.com/Alpha-Lead)
