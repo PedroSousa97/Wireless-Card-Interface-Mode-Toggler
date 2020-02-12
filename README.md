@@ -13,7 +13,7 @@ This script needs the following dependencies installed so it can run properly:
 * grep;
 * sed;
 
-This script will needs sudo permissions.
+This script will need sudo permissions.
 
 ## Authors
 
